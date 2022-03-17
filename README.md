@@ -10,3 +10,7 @@
 --------------------------------------------------------------------
 btw skidding is gay made by ui and obfuscation by vesperlol
 --------------------------------------------------------------------
+
+
+
+![image](https://cdn.discordapp.com/attachments/945427136905347217/954148373903052908/unknown.png)
