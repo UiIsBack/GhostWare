@@ -1,3 +1,10 @@
+=================================================
+updates soon!!!!!!!!
+=================================================
+
+
+
+
 1. make sure you have python installed 3.8 + with path
 2. open install.bat
 3. once that finishes, open ghostware
